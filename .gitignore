@@ -1,4 +1,4 @@
 *.log
-*/vhost/*.conf
+**/vhost/*.conf
 /java
 *.rar
