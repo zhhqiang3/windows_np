@@ -1,0 +1,286 @@
+[12756] 20 Mar 09:16:45.470 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[12756] 20 Mar 09:16:45.471 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=12756, just started
+[12756] 20 Mar 09:16:45.471 # Configuration loaded
+[12756] 20 Mar 09:16:45.475 * Running mode=standalone, port=6379.
+[12756] 20 Mar 09:16:45.475 # Server initialized
+[12756] 20 Mar 09:16:45.476 * Ready to accept connections
+[4420] 23 Mar 20:22:12.244 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4420] 23 Mar 20:22:12.247 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4420, just started
+[4420] 23 Mar 20:22:12.247 # Configuration loaded
+[4420] 23 Mar 20:22:12.256 * Running mode=standalone, port=6379.
+[4420] 23 Mar 20:22:12.256 # Server initialized
+[4420] 23 Mar 20:22:12.258 * DB loaded from disk: 0.001 seconds
+[4420] 23 Mar 20:22:12.258 * Ready to accept connections
+[4752] 29 Mar 20:55:33.065 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4752] 29 Mar 20:55:33.065 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4752, just started
+[4752] 29 Mar 20:55:33.065 # Configuration loaded
+[4752] 29 Mar 20:55:33.077 * Running mode=standalone, port=6379.
+[4752] 29 Mar 20:55:33.077 # Server initialized
+[4752] 29 Mar 20:55:33.077 * DB loaded from disk: 0.001 seconds
+[4752] 29 Mar 20:55:33.077 * Ready to accept connections
+[4536] 05 Apr 21:07:16.385 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4536] 05 Apr 21:07:16.386 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4536, just started
+[4536] 05 Apr 21:07:16.386 # Configuration loaded
+[4536] 05 Apr 21:07:16.398 * Running mode=standalone, port=6379.
+[4536] 05 Apr 21:07:16.400 # Server initialized
+[4536] 05 Apr 21:07:16.401 * DB loaded from disk: 0.001 seconds
+[4536] 05 Apr 21:07:16.401 * Ready to accept connections
+[5008] 10 Apr 13:33:30.008 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5008] 10 Apr 13:33:30.024 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5008, just started
+[5008] 10 Apr 13:33:30.024 # Configuration loaded
+[5008] 10 Apr 13:33:30.024 * Running mode=standalone, port=6379.
+[5008] 10 Apr 13:33:30.024 # Server initialized
+[5008] 10 Apr 13:33:30.024 * DB loaded from disk: 0.001 seconds
+[5008] 10 Apr 13:33:30.024 * Ready to accept connections
+[4808] 10 Apr 14:41:40.629 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4808] 10 Apr 14:41:40.631 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4808, just started
+[4808] 10 Apr 14:41:40.633 # Configuration loaded
+[4808] 10 Apr 14:41:40.643 * Running mode=standalone, port=6379.
+[4808] 10 Apr 14:41:40.644 # Server initialized
+[4808] 10 Apr 14:41:40.645 * DB loaded from disk: 0.001 seconds
+[4808] 10 Apr 14:41:40.646 * Ready to accept connections
+[5096] 10 Apr 16:17:08.489 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5096] 10 Apr 16:17:08.493 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5096, just started
+[5096] 10 Apr 16:17:08.494 # Configuration loaded
+[5096] 10 Apr 16:17:08.502 * Running mode=standalone, port=6379.
+[5096] 10 Apr 16:17:08.502 # Server initialized
+[5096] 10 Apr 16:17:08.504 * DB loaded from disk: 0.001 seconds
+[5096] 10 Apr 16:17:08.504 * Ready to accept connections
+[4608] 17 Apr 15:06:00.644 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4608] 17 Apr 15:06:00.658 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4608, just started
+[4608] 17 Apr 15:06:00.658 # Configuration loaded
+[4608] 17 Apr 15:06:00.658 * Running mode=standalone, port=6379.
+[4608] 17 Apr 15:06:00.658 # Server initialized
+[4608] 17 Apr 15:06:00.658 * DB loaded from disk: 0.001 seconds
+[4608] 17 Apr 15:06:00.658 * Ready to accept connections
+[4764] 18 Apr 10:55:23.920 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4764] 18 Apr 10:55:23.922 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4764, just started
+[4764] 18 Apr 10:55:23.922 # Configuration loaded
+[4764] 18 Apr 10:55:23.930 * Running mode=standalone, port=6379.
+[4764] 18 Apr 10:55:23.931 # Server initialized
+[4764] 18 Apr 10:55:23.933 * DB loaded from disk: 0.001 seconds
+[4764] 18 Apr 10:55:23.933 * Ready to accept connections
+[5488] 21 Apr 07:18:46.616 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5488] 21 Apr 07:18:46.621 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5488, just started
+[5488] 21 Apr 07:18:46.623 # Configuration loaded
+[5488] 21 Apr 07:18:46.674 * Running mode=standalone, port=6379.
+[5488] 21 Apr 07:18:46.675 # Server initialized
+[5488] 21 Apr 07:18:46.685 * DB loaded from disk: 0.002 seconds
+[5488] 21 Apr 07:18:46.686 * Ready to accept connections
+[4816] 21 Apr 20:06:15.184 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4816] 21 Apr 20:06:15.187 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4816, just started
+[4816] 21 Apr 20:06:15.188 # Configuration loaded
+[4816] 21 Apr 20:06:15.199 * Running mode=standalone, port=6379.
+[4816] 21 Apr 20:06:15.199 # Server initialized
+[4816] 21 Apr 20:06:15.201 * DB loaded from disk: 0.001 seconds
+[4816] 21 Apr 20:06:15.202 * Ready to accept connections
+[4820] 24 Apr 15:32:26.436 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4820] 24 Apr 15:32:26.436 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4820, just started
+[4820] 24 Apr 15:32:26.436 # Configuration loaded
+[4820] 24 Apr 15:32:26.452 * Running mode=standalone, port=6379.
+[4820] 24 Apr 15:32:26.452 # Server initialized
+[4820] 24 Apr 15:32:26.452 * DB loaded from disk: 0.001 seconds
+[4820] 24 Apr 15:32:26.452 * Ready to accept connections
+[4368] 26 Apr 23:16:00.717 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4368] 26 Apr 23:16:00.718 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4368, just started
+[4368] 26 Apr 23:16:00.718 # Configuration loaded
+[4368] 26 Apr 23:16:00.725 * Running mode=standalone, port=6379.
+[4368] 26 Apr 23:16:00.725 # Server initialized
+[4368] 26 Apr 23:16:00.726 * DB loaded from disk: 0.001 seconds
+[4368] 26 Apr 23:16:00.727 * Ready to accept connections
+[4452] 30 Apr 19:56:11.817 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4452] 30 Apr 19:56:11.818 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4452, just started
+[4452] 30 Apr 19:56:11.819 # Configuration loaded
+[4452] 30 Apr 19:56:11.828 * Running mode=standalone, port=6379.
+[4452] 30 Apr 19:56:11.828 # Server initialized
+[4452] 30 Apr 19:56:11.830 * DB loaded from disk: 0.001 seconds
+[4452] 30 Apr 19:56:11.831 * Ready to accept connections
+[4996] 12 May 20:30:05.890 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4996] 12 May 20:30:05.893 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4996, just started
+[4996] 12 May 20:30:05.893 # Configuration loaded
+[4996] 12 May 20:30:05.903 * Running mode=standalone, port=6379.
+[4996] 12 May 20:30:05.904 # Server initialized
+[4996] 12 May 20:30:05.906 * DB loaded from disk: 0.001 seconds
+[4996] 12 May 20:30:05.907 * Ready to accept connections
+[5432] 13 May 16:03:23.242 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5432] 13 May 16:03:23.247 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5432, just started
+[5432] 13 May 16:03:23.257 # Configuration loaded
+[5432] 13 May 16:03:23.286 * Running mode=standalone, port=6379.
+[5432] 13 May 16:03:23.325 # Server initialized
+[5432] 13 May 16:03:23.374 * DB loaded from disk: 0.002 seconds
+[5432] 13 May 16:03:23.376 * Ready to accept connections
+[4808] 14 May 11:29:02.730 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4808] 14 May 11:29:02.732 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4808, just started
+[4808] 14 May 11:29:02.733 # Configuration loaded
+[4808] 14 May 11:29:02.741 * Running mode=standalone, port=6379.
+[4808] 14 May 11:29:02.741 # Server initialized
+[4808] 14 May 11:29:02.743 * DB loaded from disk: 0.001 seconds
+[4808] 14 May 11:29:02.744 * Ready to accept connections
+[4532] 16 May 18:40:58.228 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4532] 16 May 18:40:58.230 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4532, just started
+[4532] 16 May 18:40:58.230 # Configuration loaded
+[4532] 16 May 18:40:58.238 * Running mode=standalone, port=6379.
+[4532] 16 May 18:40:58.239 # Server initialized
+[4532] 16 May 18:40:58.240 * DB loaded from disk: 0.001 seconds
+[4532] 16 May 18:40:58.240 * Ready to accept connections
+[5056] 16 May 20:28:35.218 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5056] 16 May 20:28:35.249 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5056, just started
+[5056] 16 May 20:28:35.251 # Configuration loaded
+[5056] 16 May 20:28:35.303 * Running mode=standalone, port=6379.
+[5056] 16 May 20:28:35.304 # Server initialized
+[5056] 16 May 20:28:35.311 * DB loaded from disk: 0.003 seconds
+[5056] 16 May 20:28:35.312 * Ready to accept connections
+[5160] 23 May 07:37:52.812 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5160] 23 May 07:37:52.812 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5160, just started
+[5160] 23 May 07:37:52.812 # Configuration loaded
+[5160] 23 May 07:37:52.826 * Running mode=standalone, port=6379.
+[5160] 23 May 07:37:52.826 # Server initialized
+[5160] 23 May 07:37:52.831 * DB loaded from disk: 0.001 seconds
+[5160] 23 May 07:37:52.831 * Ready to accept connections
+[5196] 23 May 08:02:04.390 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5196] 23 May 08:02:04.406 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5196, just started
+[5196] 23 May 08:02:04.406 # Configuration loaded
+[5196] 23 May 08:02:04.415 * Running mode=standalone, port=6379.
+[5196] 23 May 08:02:04.415 # Server initialized
+[5196] 23 May 08:02:04.415 * DB loaded from disk: 0.001 seconds
+[5196] 23 May 08:02:04.415 * Ready to accept connections
+[4536] 27 May 18:48:09.599 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4536] 27 May 18:48:09.599 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4536, just started
+[4536] 27 May 18:48:09.599 # Configuration loaded
+[4536] 27 May 18:48:09.606 * Running mode=standalone, port=6379.
+[4536] 27 May 18:48:09.606 # Server initialized
+[4536] 27 May 18:48:09.606 * DB loaded from disk: 0.001 seconds
+[4536] 27 May 18:48:09.606 * Ready to accept connections
+[4472] 29 May 19:43:24.868 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4472] 29 May 19:43:24.868 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4472, just started
+[4472] 29 May 19:43:24.868 # Configuration loaded
+[4472] 29 May 19:43:24.883 * Running mode=standalone, port=6379.
+[4472] 29 May 19:43:24.883 # Server initialized
+[4472] 29 May 19:43:24.883 * DB loaded from disk: 0.002 seconds
+[4472] 29 May 19:43:24.883 * Ready to accept connections
+[4792] 29 May 20:42:49.256 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4792] 29 May 20:42:49.256 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4792, just started
+[4792] 29 May 20:42:49.256 # Configuration loaded
+[4792] 29 May 20:42:49.271 * Running mode=standalone, port=6379.
+[4792] 29 May 20:42:49.271 # Server initialized
+[4792] 29 May 20:42:49.271 * DB loaded from disk: 0.001 seconds
+[4792] 29 May 20:42:49.271 * Ready to accept connections
+[4864] 29 May 21:36:50.935 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4864] 29 May 21:36:50.935 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4864, just started
+[4864] 29 May 21:36:50.935 # Configuration loaded
+[4864] 29 May 21:36:50.935 * Running mode=standalone, port=6379.
+[4864] 29 May 21:36:50.950 # Server initialized
+[4864] 29 May 21:36:50.950 * DB loaded from disk: 0.004 seconds
+[4864] 29 May 21:36:50.950 * Ready to accept connections
+[5724] 07 Jun 17:31:36.748 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5724] 07 Jun 17:31:36.751 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5724, just started
+[5724] 07 Jun 17:31:36.754 # Configuration loaded
+[5724] 07 Jun 17:31:36.793 * Running mode=standalone, port=6379.
+[5724] 07 Jun 17:31:36.836 # Server initialized
+[5724] 07 Jun 17:31:36.839 * DB loaded from disk: 0.001 seconds
+[5724] 07 Jun 17:31:36.841 * Ready to accept connections
+[5664] 08 Jun 20:33:17.073 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5664] 08 Jun 20:33:17.077 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5664, just started
+[5664] 08 Jun 20:33:17.082 # Configuration loaded
+[5664] 08 Jun 20:33:17.123 * Running mode=standalone, port=6379.
+[5664] 08 Jun 20:33:17.127 # Server initialized
+[5664] 08 Jun 20:33:17.132 * DB loaded from disk: 0.001 seconds
+[5664] 08 Jun 20:33:17.135 * Ready to accept connections
+[5112] 12 Jun 14:25:26.788 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5112] 12 Jun 14:25:26.793 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5112, just started
+[5112] 12 Jun 14:25:26.799 # Configuration loaded
+[5112] 12 Jun 14:25:26.809 * Running mode=standalone, port=6379.
+[5112] 12 Jun 14:25:26.809 # Server initialized
+[5112] 12 Jun 14:25:26.811 * DB loaded from disk: 0.001 seconds
+[5112] 12 Jun 14:25:26.812 * Ready to accept connections
+[4472] 13 Jun 07:17:36.524 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4472] 13 Jun 07:17:36.532 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4472, just started
+[4472] 13 Jun 07:17:36.532 # Configuration loaded
+[4472] 13 Jun 07:17:36.532 * Running mode=standalone, port=6379.
+[4472] 13 Jun 07:17:36.532 # Server initialized
+[4472] 13 Jun 07:17:36.542 * DB loaded from disk: 0.001 seconds
+[4472] 13 Jun 07:17:36.542 * Ready to accept connections
+[4776] 13 Jun 08:06:24.699 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4776] 13 Jun 08:06:24.703 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4776, just started
+[4776] 13 Jun 08:06:24.704 # Configuration loaded
+[4776] 13 Jun 08:06:24.778 * Running mode=standalone, port=6379.
+[4776] 13 Jun 08:06:24.780 # Server initialized
+[4776] 13 Jun 08:06:24.783 * DB loaded from disk: 0.002 seconds
+[4776] 13 Jun 08:06:24.792 * Ready to accept connections
+[4364] 14 Jun 08:28:36.961 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4364] 14 Jun 08:28:36.966 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4364, just started
+[4364] 14 Jun 08:28:36.968 # Configuration loaded
+[4364] 14 Jun 08:28:37.032 * Running mode=standalone, port=6379.
+[4364] 14 Jun 08:28:37.032 # Server initialized
+[4364] 14 Jun 08:28:37.041 * DB loaded from disk: 0.005 seconds
+[4364] 14 Jun 08:28:37.042 * Ready to accept connections
+[3032] 16 Jun 20:36:39.242 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[3032] 16 Jun 20:36:39.247 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=3032, just started
+[3032] 16 Jun 20:36:39.249 # Configuration loaded
+[3032] 16 Jun 20:36:39.283 * Running mode=standalone, port=6379.
+[3032] 16 Jun 20:36:39.287 # Server initialized
+[3032] 16 Jun 20:36:39.291 * DB loaded from disk: 0.002 seconds
+[3032] 16 Jun 20:36:39.292 * Ready to accept connections
+[4120] 17 Jun 20:56:00.662 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4120] 17 Jun 20:56:00.667 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4120, just started
+[4120] 17 Jun 20:56:00.671 # Configuration loaded
+[4120] 17 Jun 20:56:00.714 * Running mode=standalone, port=6379.
+[4120] 17 Jun 20:56:00.718 # Server initialized
+[4120] 17 Jun 20:56:00.723 * DB loaded from disk: 0.002 seconds
+[4120] 17 Jun 20:56:00.726 * Ready to accept connections
+[5072] 18 Jun 07:15:33.411 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5072] 18 Jun 07:15:33.415 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5072, just started
+[5072] 18 Jun 07:15:33.417 # Configuration loaded
+[5072] 18 Jun 07:15:33.445 * Running mode=standalone, port=6379.
+[5072] 18 Jun 07:15:33.472 # Server initialized
+[5072] 18 Jun 07:15:33.496 * DB loaded from disk: 0.002 seconds
+[5072] 18 Jun 07:15:33.498 * Ready to accept connections
+[4372] 18 Jun 21:07:00.551 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4372] 18 Jun 21:07:00.553 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4372, just started
+[4372] 18 Jun 21:07:00.553 # Configuration loaded
+[4372] 18 Jun 21:07:00.563 * Running mode=standalone, port=6379.
+[4372] 18 Jun 21:07:00.563 # Server initialized
+[4372] 18 Jun 21:07:00.563 * DB loaded from disk: 0.001 seconds
+[4372] 18 Jun 21:07:00.563 * Ready to accept connections
+[5108] 19 Jun 21:19:52.009 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5108] 19 Jun 21:19:52.011 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5108, just started
+[5108] 19 Jun 21:19:52.012 # Configuration loaded
+[5108] 19 Jun 21:19:52.023 * Running mode=standalone, port=6379.
+[5108] 19 Jun 21:19:52.023 # Server initialized
+[5108] 19 Jun 21:19:52.025 * DB loaded from disk: 0.001 seconds
+[5108] 19 Jun 21:19:52.025 * Ready to accept connections
+[5656] 20 Jun 11:45:30.399 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5656] 20 Jun 11:45:30.406 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5656, just started
+[5656] 20 Jun 11:45:30.408 # Configuration loaded
+[5656] 20 Jun 11:45:30.467 * Running mode=standalone, port=6379.
+[5656] 20 Jun 11:45:30.523 # Server initialized
+[5656] 20 Jun 11:45:30.526 * DB loaded from disk: 0.001 seconds
+[5656] 20 Jun 11:45:30.528 * Ready to accept connections
+[4984] 21 Jun 20:42:42.667 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4984] 21 Jun 20:42:42.667 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4984, just started
+[4984] 21 Jun 20:42:42.667 # Configuration loaded
+[4984] 21 Jun 20:42:42.675 * Running mode=standalone, port=6379.
+[4984] 21 Jun 20:42:42.675 # Server initialized
+[4984] 21 Jun 20:42:42.685 * DB loaded from disk: 0.001 seconds
+[4984] 21 Jun 20:42:42.685 * Ready to accept connections
+[5156] 23 Jun 21:19:18.506 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[5156] 23 Jun 21:19:18.519 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=5156, just started
+[5156] 23 Jun 21:19:18.522 # Configuration loaded
+[5156] 23 Jun 21:19:18.540 * Running mode=standalone, port=6379.
+[5156] 23 Jun 21:19:18.540 # Server initialized
+[5156] 23 Jun 21:19:18.542 * DB loaded from disk: 0.001 seconds
+[5156] 23 Jun 21:19:18.543 * Ready to accept connections
+[4932] 26 Jun 09:39:58.042 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4932] 26 Jun 09:39:58.042 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4932, just started
+[4932] 26 Jun 09:39:58.042 # Configuration loaded
+[4932] 26 Jun 09:39:58.062 * Running mode=standalone, port=6379.
+[4932] 26 Jun 09:39:58.062 # Server initialized
+[4932] 26 Jun 09:39:58.062 * DB loaded from disk: 0.001 seconds
+[4932] 26 Jun 09:39:58.070 * Ready to accept connections
+[4928] 27 Jun 09:32:16.169 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4928] 27 Jun 09:32:16.171 # Redis version=5.0.10, bits=64, commit=1c047b68, modified=0, pid=4928, just started
+[4928] 27 Jun 09:32:16.171 # Configuration loaded
+[4928] 27 Jun 09:32:16.180 * Running mode=standalone, port=6379.
+[4928] 27 Jun 09:32:16.180 # Server initialized
+[4928] 27 Jun 09:32:16.183 * DB loaded from disk: 0.001 seconds
+[4928] 27 Jun 09:32:16.183 * Ready to accept connections
